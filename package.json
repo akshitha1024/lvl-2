@@ -1,0 +1,16 @@
+{
+  "name": "lvl-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chapalamadugu akshitha",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.7",
+    "yargs": "^17.6.2"
+  }
+}
